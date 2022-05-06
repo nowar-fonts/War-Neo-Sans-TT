@@ -1,3 +1,7 @@
+# Archived
+
+Official WotLK classic is coming with modern typographical technique. The OpenType/TT variant is no longer needed.
+
 # War Neo Sans (OpenType/TT)
 
 War Neo Sans, font packs for _World of Warcraft_ and _WoW Classic_ that support all client languages. War Sans is subsetted [Nowar Neo Sans](https://github.com/nowar-fonts/Nowar-Neo-Sans).
